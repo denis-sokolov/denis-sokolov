@@ -1,8 +1,8 @@
-![Gray background](https://raw.githubusercontent.com/denis-sokolov/denis-sokolov/master/bg.jpg)
+![Gray background](https://raw.githubusercontent.com/denis-sokolov/denis-sokolov/master/bg.png)
 
 <!--
-Thanks to Adrien Olichon for the image
-https://unsplash.com/photos/gOdavfpH-3s
+Thanks to Alex Woods for the image
+https://unsplash.com/photos/ee5Pqx_OTlQ
 -->
 
 Some of my bigger repositories are

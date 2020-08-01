@@ -1,4 +1,4 @@
-![Gray background](https://raw.githubusercontent.com/denis-sokolov/denis-sokolov/master/bg.png)
+[![Gray background](https://raw.githubusercontent.com/denis-sokolov/denis-sokolov/master/bg.png)](https://github.com/denis-sokolov)
 
 <!--
 Thanks to Alex Woods for the image

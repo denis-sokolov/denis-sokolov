@@ -27,6 +27,7 @@ Minor projects:
 [bookmark-js-eval](https://github.com/denis-sokolov/bookmark-js-eval),
 [chrome-custom-css](https://github.com/denis-sokolov/chrome-custom-css),
 [chrome-random-bookmark](https://github.com/denis-sokolov/chrome-random-bookmark),
+[color](https://github.com/denis-sokolov/color),
 [color-picker](https://github.com/denis-sokolov/color-picker),
 [custom-favicon-redirect](https://github.com/denis-sokolov/custom-favicon-redirect),
 [hide-video-duration](https://github.com/denis-sokolov/hide-video-duration),

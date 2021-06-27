@@ -6,9 +6,10 @@ https://unsplash.com/photos/ee5Pqx_OTlQ
 -->
 
 Some of my bigger repositories are
+[remove-github-forks](https://github.com/denis-sokolov/remove-github-forks),
 [chrome-supergenpass](https://github.com/denis-sokolov/chrome-supergenpass),
-[purisa-code](https://github.com/denis-sokolov/purisa-code),
-[remove-github-forks](https://github.com/denis-sokolov/remove-github-forks).
+[purisa-code](https://github.com/denis-sokolov/purisa-code).
+
 
 I have contributed significantly to
 [css-variables-loader](https://github.com/Dashlane/css-variables-loader/commits?author=denis-sokolov),

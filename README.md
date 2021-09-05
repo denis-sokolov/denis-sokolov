@@ -8,13 +8,12 @@ https://unsplash.com/photos/ee5Pqx_OTlQ
 Some of my bigger repositories are
 [remove-github-forks](https://github.com/denis-sokolov/remove-github-forks),
 [chrome-supergenpass](https://github.com/denis-sokolov/chrome-supergenpass),
-[purisa-code](https://github.com/denis-sokolov/purisa-code).
-
+[oncilla](https://github.com/denis-sokolov/oncilla/commits),
+[purisa-code](https://github.com/denis-sokolov/purisa-code),
+[react-tools](https://github.com/denis-sokolov/react-tools).
 
 I have contributed significantly to
 [css-variables-loader](https://github.com/Dashlane/css-variables-loader/commits?author=denis-sokolov),
-[oncilla](https://github.com/Theorem/oncilla/commits?author=denis-sokolov),
-[react-tools](https://github.com/Theorem/react-tools/commits?author=denis-sokolov),
 [redux-cursor](https://github.com/Dashlane/redux-cursor/commits?author=denis-sokolov),
 [supergenpass-lib](https://github.com/chriszarate/supergenpass-lib/commits?author=denis-sokolov),
 [whoops](https://github.com/filp/whoops/commits?author=denis-sokolov).
@@ -30,6 +29,7 @@ Minor projects:
 [color](https://github.com/denis-sokolov/color),
 [color-picker](https://github.com/denis-sokolov/color-picker),
 [custom-favicon-redirect](https://github.com/denis-sokolov/custom-favicon-redirect),
+[eslint-plugin](https://github.com/denis-sokolov/eslint-plugin),
 [hide-video-duration](https://github.com/denis-sokolov/hide-video-duration),
 [media-query-props](https://github.com/denis-sokolov/media-query-props),
 [reddit-rss](https://github.com/denis-sokolov/reddit-rss),

@@ -54,4 +54,6 @@ I have contributed in some amount to [amsul/pickadate.js](https://github.com/ams
 [zendframework/zf2](https://github.com/zendframework/zf2/commits?author=denis-sokolov),
 [zikula/doctrine1](https://github.com/zikula/doctrine1/commits?author=denis-sokolov).
 
+In some cases important projects heard my suggestions: [the API of useTransition in React](https://github.com/facebook/react/issues/17276), [the typings of filter in TypeScript](https://github.com/microsoft/TypeScript/issues/5850), [tiny info icon in the log panel of Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=50316#c36).
+
 </details>

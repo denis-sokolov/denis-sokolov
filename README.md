@@ -36,7 +36,9 @@ Minor projects:
 [stopwatch](https://github.com/denis-sokolov/stopwatch),
 [update-current-bookmark](https://github.com/denis-sokolov/update-current-bookmark), and even some [less notable ones](https://github.com/denis-sokolov?tab=repositories).
 
-I have contributed in some amount to [amsul/pickadate.js](https://github.com/amsul/pickadate.js/commits?author=denis-sokolov),
+I have contributed in some amount to
+[Aeolun/react-diff-viewer-continued](https://github.com/Aeolun/react-diff-viewer-continued),
+[amsul/pickadate.js](https://github.com/amsul/pickadate.js/commits?author=denis-sokolov),
 [cbowdon/TsMonad](https://github.com/cbowdon/TsMonad/commits?author=denis-sokolov),
 [digitick/php-sepa-xml](https://github.com/digitick/php-sepa-xml/commits?author=denis-sokolov),
 [derek-watson/jsUri](https://github.com/derek-watson/jsUri/commits?author=denis-sokolov),
